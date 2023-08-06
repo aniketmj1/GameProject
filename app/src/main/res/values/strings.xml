@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">V Play</string>
+    <string name="p1_win">p1_win</string>
+    <string name="p2_win">p2_win</string>
+</resources>
