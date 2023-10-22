@@ -88,7 +88,7 @@
             android:layout_marginTop="30dp"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="tackle"
+            android:text="Guess the Number"
             android:textSize="34sp" />
 
     </LinearLayout>

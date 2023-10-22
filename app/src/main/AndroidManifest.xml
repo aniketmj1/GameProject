@@ -13,6 +13,9 @@
         android:theme="@style/Theme.VPlay"
         tools:targetApi="31">
         <activity
+            android:name=".Random"
+            android:exported="false" />
+        <activity
             android:name=".sps"
             android:exported="false" />
         <activity
